@@ -1,0 +1,6 @@
+import display_legend
+import lfighter_in_cifar10_ba
+import lfighter_in_mnist_ba
+import lfighter_in_cifar10_ma
+import lfighter_in_mnist_ma
+
